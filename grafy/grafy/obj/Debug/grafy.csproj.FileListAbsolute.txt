@@ -1,0 +1,10 @@
+c:\users\balti\source\repos\grafy\grafy\bin\Debug\grafy.exe.config
+c:\users\balti\source\repos\grafy\grafy\bin\Debug\grafy.exe
+c:\users\balti\source\repos\grafy\grafy\bin\Debug\grafy.pdb
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.csprojResolveAssemblyReference.cache
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.Form1.resources
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.Properties.Resources.resources
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.csproj.GenerateResource.Cache
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.csproj.CoreCompileInputs.cache
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.exe
+c:\users\balti\source\repos\grafy\grafy\obj\Debug\grafy.pdb
